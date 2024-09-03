@@ -1,6 +1,8 @@
 # about👩‍💻
 ### _코다 가족은 기록을 어떻게 하나요?_
-SKT Fly AI Challenger 과정 진행 중 수행한 **'기록할, 코다'** 프로젝트입니다. 본 프로젝트는 SKT Fly AI Challenger 5기에서 대상🥇을 수상하였습니다.
+SKT Fly AI Challenger 과정 진행 중 수행한 **'기록할, 코다'** 프로젝트입니다.
+
+본 프로젝트는 SKT Fly AI Challenger 5기에서 **대상🥇**을 수상하였습니다.
 
 > ### **코다(CODA)**
 > Children of Deaf Adults의 약자로, 농인 부모의 자녀를 의미합니다.
